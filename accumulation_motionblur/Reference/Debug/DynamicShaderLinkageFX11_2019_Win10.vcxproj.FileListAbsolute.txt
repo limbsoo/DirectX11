@@ -1,0 +1,6 @@
+C:\Users\장그래\Desktop\새 폴더 (2)\DynamicShaderLinkageFX11\Debug\DynamicShaderLinkageFX11.exe
+C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\새 폴더 (2)\DynamicShaderLinkageFX11\Debug\DynamicShaderLinkageFX11.exe
+C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Debug\DynamicShaderLinkageFX11.exe
+C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\Reference\Debug\DynamicShaderLinkageFX11.exe
+C:\Users\CG_LAB\Desktop\Data\DirectX11\Reference_MotionBlur_Accumulation\Reference\Debug\DynamicShaderLinkageFX11.exe
+C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\Reference\Debug\DynamicShaderLinkageFX11.exe

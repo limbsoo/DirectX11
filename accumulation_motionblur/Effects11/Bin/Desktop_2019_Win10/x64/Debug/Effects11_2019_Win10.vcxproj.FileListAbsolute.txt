@@ -1,0 +1,1 @@
+C:\Users\장그래\Desktop\directx-sdk-samples-main\Effects11\Bin\Desktop_2019_Win10\x64\Debug\Effects11d.lib

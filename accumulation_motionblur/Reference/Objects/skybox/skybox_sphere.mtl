@@ -1,0 +1,15 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 26.10.2022 16:44:43
+
+newmtl Material__26
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\skybox\pixexid-7783f71a-f672-4a7b-bff2-0d1262679d7e.jpeg

@@ -1,0 +1,33 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 24.06.2021 13:57:08
+
+mtllib test2.mtl
+
+#
+# object sponza_00
+#
+
+v  -1 -1 0
+v  -1 1 0
+v  1 -1 0
+v  1 1 0
+
+# 4 vertices
+
+vn 0 1 0
+# 1 vertex normals
+
+vt 0 0 0.0000
+vt 0 1 0.0000
+vt 1 0 0.0000
+vt 1 1 0.0000
+
+# 4 texture coords
+
+o sponza_00
+s 1
+f 2/2/1 1/1/1 3/3/1 
+f 2/2/1 3/3/1 4/4/1 
+
+# 1polygons - 2 triangles
+

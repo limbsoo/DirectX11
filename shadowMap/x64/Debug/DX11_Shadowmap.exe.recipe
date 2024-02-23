@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\CG_LAB\Desktop\Data\DirectX11\shadowMap\x64\Debug\DX11_Shadowmap.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\CG_LAB\Desktop\Data\DirectX11\shadowMap\x64\Debug\depth_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\CG_LAB\Desktop\Data\DirectX11\shadowMap\x64\Debug\depth_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\CG_LAB\Desktop\Data\DirectX11\shadowMap\x64\Debug\shadow_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\CG_LAB\Desktop\Data\DirectX11\shadowMap\x64\Debug\shadow_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

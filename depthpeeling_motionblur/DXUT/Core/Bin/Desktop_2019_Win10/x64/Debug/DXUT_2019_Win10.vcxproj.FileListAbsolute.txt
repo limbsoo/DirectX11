@@ -1,0 +1,2 @@
+C:\Users\장그래\Desktop\directx-sdk-samples-main\DXUT\Core\Bin\Desktop_2019_Win10\x64\Debug\DXUT.lib
+C:\Users\CG_LAB\Desktop\motion blur\DXUT\Core\Bin\Desktop_2019_Win10\x64\Debug\DXUT.lib

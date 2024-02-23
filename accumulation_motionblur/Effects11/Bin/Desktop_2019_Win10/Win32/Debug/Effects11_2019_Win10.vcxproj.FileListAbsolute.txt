@@ -1,0 +1,5 @@
+C:\Users\장그래\Desktop\새 폴더 (2)\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\Effects11d.lib
+C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\새 폴더 (2)\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\Effects11d.lib
+C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\Effects11d.lib
+C:\Users\CG_LAB\Desktop\Data\DirectX11\Reference_MotionBlur_Accumulation\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\Effects11d.lib
+C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\Effects11d.lib

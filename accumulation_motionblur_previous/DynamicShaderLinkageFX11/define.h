@@ -1,0 +1,13 @@
+#define MSAA_LEVEL 8
+
+#define ZNEAR 0.001f
+#define ZFAR 1000.f
+
+#define SCREENWIDTH 1920
+#define SCREENHEIGHT 1080
+
+#define TEXTUREARRSIZE 8
+
+#define MAXSUBFRAME 32.f 
+
+#define MOVESPEED 0.5f / MAXSUBFRAME

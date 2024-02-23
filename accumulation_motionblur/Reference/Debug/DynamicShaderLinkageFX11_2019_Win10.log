@@ -1,0 +1,218 @@
+﻿  LINK : C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\Reference\Debug\DynamicShaderLinkageFX11.pdb 프로그램 데이터베이스가 없습니다. 전체 링크를 수행하고 있습니다.
+  라이브러리를 검색하고 있습니다.
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\DirectXTK.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\d3dx11.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\d3dcompiler.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\assimp_32.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\DirectXTex\Win32\Debug\DirectXTex.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\dxguid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winmm.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comctl32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\usp10.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\advapi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbc32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbccp32.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\DXUT\Core\Bin\Desktop_2019_Win10\Win32\Debug\DXUT.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\DXUT\Optional\Bin\Desktop_2019_Win10\Win32\Debug\DXUTOpt.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\Effects11d.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\msvcprtd.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86\atls.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shlwapi.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\MSVCRTD.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\OLDNAMES.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\comsuppwd.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\vcruntimed.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x86\ucrtd.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\DirectXTK.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\d3dx11.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\d3dcompiler.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\assimp_32.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\DirectXTex\Win32\Debug\DirectXTex.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\dxguid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winmm.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comctl32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\usp10.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\advapi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbc32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbccp32.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\DXUT\Core\Bin\Desktop_2019_Win10\Win32\Debug\DXUT.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\DXUT\Optional\Bin\Desktop_2019_Win10\Win32\Debug\DXUTOpt.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\Effects11d.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\msvcprtd.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86\atls.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shlwapi.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\MSVCRTD.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\OLDNAMES.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\comsuppwd.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\vcruntimed.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x86\ucrtd.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\DirectXTK.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\d3dx11.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\d3dcompiler.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\assimp_32.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\DirectXTex\Win32\Debug\DirectXTex.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\dxguid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winmm.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comctl32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\usp10.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\advapi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\oleaut32.lib 검색 중:
+  라이브러리가 검색되었습니다.
+  라이브러리를 검색하고 있습니다.
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\DirectXTK.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\d3dx11.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\d3dcompiler.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\assimp_32.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\DirectXTex\Win32\Debug\DirectXTex.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\dxguid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winmm.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comctl32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\usp10.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\advapi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbc32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbccp32.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\DXUT\Core\Bin\Desktop_2019_Win10\Win32\Debug\DXUT.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\DXUT\Optional\Bin\Desktop_2019_Win10\Win32\Debug\DXUTOpt.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\Effects11d.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\msvcprtd.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86\atls.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shlwapi.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\MSVCRTD.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\OLDNAMES.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\comsuppwd.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\vcruntimed.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x86\ucrtd.lib 검색 중:
+  라이브러리가 검색되었습니다.
+  라이브러리를 검색하고 있습니다.
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\DirectXTK.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\d3dx11.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\d3dcompiler.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\assimp_32.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\DirectXTex\Win32\Debug\DirectXTex.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\dxguid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winmm.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comctl32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\usp10.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\advapi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbc32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbccp32.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\DXUT\Core\Bin\Desktop_2019_Win10\Win32\Debug\DXUT.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\DXUT\Optional\Bin\Desktop_2019_Win10\Win32\Debug\DXUTOpt.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\Effects11d.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\msvcprtd.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86\atls.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shlwapi.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\MSVCRTD.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\OLDNAMES.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\comsuppwd.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\vcruntimed.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x86\ucrtd.lib 검색 중:
+  라이브러리가 검색되었습니다.
+  라이브러리를 검색하고 있습니다.
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\DirectXTK.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\d3dx11.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\d3dcompiler.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\assimp_32.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\DirectXTex\Win32\Debug\DirectXTex.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\dxguid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winmm.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comctl32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\usp10.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\advapi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbc32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbccp32.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\DXUT\Core\Bin\Desktop_2019_Win10\Win32\Debug\DXUT.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\DXUT\Optional\Bin\Desktop_2019_Win10\Win32\Debug\DXUTOpt.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\Effects11d.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\msvcprtd.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86\atls.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shlwapi.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\MSVCRTD.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\OLDNAMES.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\comsuppwd.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\vcruntimed.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x86\ucrtd.lib 검색 중:
+  라이브러리가 검색되었습니다.
+  라이브러리를 검색하고 있습니다.
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\DirectXTK.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\d3dx11.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\d3dcompiler.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\assimp_32.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\2019_MotionBlur\DXUT_MotionBlur\DynamicShaderLinkageFX11\Lib\DirectXTex\Win32\Debug\DirectXTex.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\dxguid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winmm.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comctl32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\usp10.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\advapi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbc32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbccp32.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\DXUT\Core\Bin\Desktop_2019_Win10\Win32\Debug\DXUT.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\DXUT\Optional\Bin\Desktop_2019_Win10\Win32\Debug\DXUTOpt.lib 검색 중:
+      C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\Effects11\Bin\Desktop_2019_Win10\Win32\Debug\Effects11d.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\msvcprtd.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86\atls.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shlwapi.lib 검색 중:
+      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\MSVCRTD.lib 검색 중:
+  라이브러리가 검색되었습니다.
+  DynamicShaderLinkageFX11_2019_Win10.vcxproj -> C:\Users\CG_LAB\Desktop\Data\DirectX11\accumulation_motionblur\Reference\Debug\DynamicShaderLinkageFX11.exe

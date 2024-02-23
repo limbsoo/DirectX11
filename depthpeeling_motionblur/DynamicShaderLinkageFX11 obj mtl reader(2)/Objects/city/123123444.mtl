@@ -1,0 +1,1564 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 09.11.2022 12:09:05
+
+newmtl Stairs4
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9020 0.7569 0.3216
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalScratches0052_M copy.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalScratches0052_M copy.jpg
+
+newmtl Material__270
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Sewer0059_M.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Sewer0059_M.jpg
+
+newmtl Material__283
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\AsphaltCloseups0048_3_S_2.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\AsphaltCloseups0048_3_S_2.jpg
+
+newmtl puddles
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.2940 0.2940 0.2940
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\asphaltcloseups0048_3_s.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\asphaltcloseups0048_3_s.jpg
+
+newmtl building
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\facade-1209311.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\facade-1209311.jpg
+
+newmtl gravel
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\Gravel_Texture_02_3D_p.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\Gravel_Texture_02_3D_p.jpg
+
+newmtl Material__96
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsHighRise0358_2_L.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsHighRise0358_2_L.jpg
+
+newmtl Block_08_Shop_04
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0009_1_L_2.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0009_1_L_2.jpg
+
+newmtl Block_08_Shop_08
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Graffiti0405_M.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Graffiti0405_M.jpg
+
+newmtl Material__99
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsHighRise0338_2_L.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsHighRise0338_2_L.jpg
+
+newmtl Material__95
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsHighRise0337_2_L.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsHighRise0337_2_L.jpg
+
+newmtl Block_08_Shop_03
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0012_1_S_paz_b.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0012_1_S_paz_b.jpg
+
+newmtl Material__58141
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\black roof dirt copy.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\black roof dirt copy.jpg
+
+newmtl Material__103608
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcreteNew0024_2_S_3_black.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcreteNew0024_2_S_3_black.jpg
+
+newmtl rasty_pipe
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Pipes0071_1_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Pipes0071_1_S.jpg
+
+newmtl Material__235_001
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Pipes0011_2_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Pipes0011_2_S.jpg
+
+newmtl Pipes
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\pipe.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\pipe.jpg
+
+newmtl 02
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Pipes0071_1_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Pipes0071_1_S.jpg
+
+newmtl Material__93_002
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcreteLeaking0071_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcreteLeaking0071_S.jpg
+
+newmtl Billboards
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\billboard16.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\billboard16.jpg
+
+newmtl 01___Default
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalScratches0052_M copy.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalScratches0052_M copy.jpg
+
+newmtl Material__6
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\PaperDecorative0057_M.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\PaperDecorative0057_M.jpg
+
+newmtl Material__4
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalBase0110_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalBase0110_S.jpg
+
+newmtl Material__103609
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcreteNew0024_2_S_3_02 red_dirt.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcreteNew0024_2_S_3_02 red_dirt.jpg
+
+newmtl Material__5
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Vents0215_M.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Vents0215_M.jpg
+
+newmtl 13___Default
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\WindowsIndustrial0222_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\WindowsIndustrial0222_S.jpg
+
+newmtl Material__103611
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\black roof dirt copy.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\black roof dirt copy.jpg
+
+newmtl 02___Default1w
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2549 0.2549 0.2549
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Grungemaps0119_5_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Grungemaps0119_5_S.jpg
+
+newmtl Material__9
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\round.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\round.jpg
+
+newmtl Material__58139
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcreteNew0024_2_S_3_02 red_dirt.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcreteNew0024_2_S_3_02 red_dirt.jpg
+
+newmtl Block_08_Shop_09
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Graffiti0261_M.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Graffiti0261_M.jpg
+
+newmtl Block_08_Shop_10
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0047_M_p.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0047_M_p.jpg
+
+newmtl Block_08_Shop_11
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0080_M_p.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0080_M_p.jpg
+
+newmtl Block_08_Shop_12
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0047_M_p_2.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0047_M_p_2.jpg
+
+newmtl Block_08_Shop_13
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0081_1_M_p2.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0081_1_M_p2.jpg
+
+newmtl Material_008
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsOrnate0148_12_L.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsOrnate0148_12_L.jpg
+
+newmtl Podium_wood
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\WoodPlanksBare0029_1_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\WoodPlanksBare0029_1_S.jpg
+
+newmtl Trash_can
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcreteNew0019_M.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcreteNew0019_M.jpg
+
+newmtl trash01
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Cans0004_4_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Cans0004_4_S.jpg
+
+newmtl Trash_can_leg
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\black roof.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\black roof.jpg
+
+newmtl Material__93
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsOrnate0148_12_L.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsOrnate0148_12_L.jpg
+
+newmtl Material__97
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsOrnate0019_L.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsOrnate0019_L.jpg
+
+newmtl Block_08_Shop_01
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0058_M_02.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0058_M_02.jpg
+
+newmtl Block_08_Shop_02
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0058_M_03.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0058_M_03.jpg
+
+newmtl Block_08_Shop_06
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0075_M_p.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0075_M_p.jpg
+
+newmtl Block_08_Shop_05
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0069_Spaz3.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops0069_Spaz3.jpg
+
+newmtl Material__93_001
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\HighRiseResidential0062_2_L.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\HighRiseResidential0062_2_L.jpg
+
+newmtl Material__103610
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcretePlates0092_5_S_dirt.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcretePlates0092_5_S_dirt.jpg
+
+newmtl Material__265_001
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\DoorsMetalSingle0315_M.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\DoorsMetalSingle0315_M.jpg
+
+newmtl 02___Default
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2549 0.2549 0.2549
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\pipe.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\pipe.jpg
+
+newmtl 18___Default
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0078 0.0078 0.0078
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 24___Default
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\PlasterBare0079_2_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\PlasterBare0079_2_S.jpg
+
+newmtl 13___Default_001
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\windowsindustrial0222_s2.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\windowsindustrial0222_s2.jpg
+
+newmtl Material__235
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalPlatesDucts0014_7_M.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalPlatesDucts0014_7_M.jpg
+
+newmtl Material__265
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\DoorsMetalSingle0164_M.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\DoorsMetalSingle0164_M.jpg
+
+newmtl Material__262
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcreteNew0019_M.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcreteNew0019_M.jpg
+
+newmtl grey
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Grey.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Grey.jpg
+
+newmtl Material__8
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\sun.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\sun.jpg
+
+newmtl 19___Default
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Aircos0008_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Aircos0008_S.jpg
+
+newmtl Material__260
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\DoorsMetalSingle0163_M.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\DoorsMetalSingle0163_M.jpg
+
+newmtl k2s
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\aircos0026_s.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\aircos0026_s.jpg
+
+newmtl 12___Default
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalBare0100_4_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalBare0100_4_S.jpg
+
+newmtl Billboards_001
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\billboard05.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\billboard05.jpg
+
+newmtl Material__10
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Aircos02.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Aircos02.jpg
+
+newmtl Material__20
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\aircos0011_m3.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\aircos0011_m3.jpg
+
+newmtl Material__7
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalScratches0052_M _new.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalScratches0052_M _new.jpg
+
+newmtl Material__450
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalBare0100_4_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalBare0100_4_S.jpg
+
+newmtl Road
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Road big map.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Road big map.jpg
+
+newmtl border
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\road sign.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\road sign.jpg
+
+newmtl Z3
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\metalbare0154_1_s_var3.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\metalbare0154_1_s_var3.jpg
+
+newmtl Material_003
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsHighRise0358_2_L.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsHighRise0358_2_L.jpg
+
+newmtl Block_08_Shop_14
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops_M_p_1.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Shops_M_p_1.jpg
+
+newmtl Block_08_Shop_07
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Graffiti0158_M.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Graffiti0158_M.jpg
+
+newmtl Material_006
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsHighRise0338_2_L.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsHighRise0338_2_L.jpg
+
+newmtl Material_007
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsHighRise0338_2_L.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BuildingsHighRise0338_2_L.jpg
+
+newmtl Material_004
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Graffiti0261_M.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Graffiti0261_M.jpg
+
+newmtl Material_009
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Graffiti0261_M.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Graffiti0261_M.jpg
+
+newmtl Material_010
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Graffiti0261_M.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Graffiti0261_M.jpg
+
+newmtl Material__267
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\cutting220186kr0.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\cutting220186kr0.jpg
+
+newmtl Material__262_001
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\bin color New.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\bin color New.jpg
+
+newmtl Y_light
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\light2.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\light2.jpg
+
+newmtl R_light
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\light3.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\light3.jpg
+
+newmtl G_light
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\light1.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\light1.jpg
+
+newmtl Metal
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalBare0154_1_S_NEW.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalBare0154_1_S_NEW.jpg
+
+newmtl Material__32
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\sign one wayu.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\sign one wayu.jpg
+
+newmtl Material__33_001
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Street signs W BROADWAY.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Street signs W BROADWAY.jpg
+
+newmtl Material__33
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Street signs Grand st.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Street signs Grand st.jpg
+
+newmtl Material__280_001
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\bin color.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\bin color.jpg
+
+newmtl Material__280
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\bin color.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\bin color.jpg
+
+newmtl Material__108
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalRollup0086_2_S_2.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalRollup0086_2_S_2.jpg
+
+newmtl Material__383
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalScratches0052__black.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalScratches0052__black.jpg
+
+newmtl Material__380
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Gauges0056_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Gauges0056_S.jpg
+
+newmtl Black_metal_Scratched
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalScratches0052__black.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalScratches0052__black.jpg
+
+newmtl Phone
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\R_phone_color.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\R_phone_color.jpg
+
+newmtl Z1
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Grey.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Grey.jpg
+
+newmtl Material__262_003
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\bin color.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\bin color.jpg
+
+newmtl Billboards_006
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\billboard08.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\billboard08.jpg
+
+newmtl Material__279
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BrickSmallBrown0243_5_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\BrickSmallBrown0243_5_S.jpg
+
+newmtl Material__58140
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcreteNew0024_2_S_3_black.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcreteNew0024_2_S_3_black.jpg
+
+newmtl Material_028
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\HighRiseResidential0062_2_L.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\HighRiseResidential0062_2_L.jpg
+
+newmtl Material_029
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\HighRiseResidential0062_2_L.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\HighRiseResidential0062_2_L.jpg
+
+newmtl 02___Default1wb
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2549 0.2549 0.2549
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalBare0154_1_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\MetalBare0154_1_S.jpg
+
+newmtl 02___Default1
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2549 0.2549 0.2549
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcreteNew0024_2_S2.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\ConcreteNew0024_2_S2.jpg
+
+newmtl 01___Default_001
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Aircos0011_S.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\Aircos0011_S.jpg
+
+newmtl Material_021
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\HighRiseResidential0062_2_L.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\HighRiseResidential0062_2_L.jpg
+
+newmtl Material_018
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\HighRiseResidential0062_2_L.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\HighRiseResidential0062_2_L.jpg
+
+newmtl Material__4129
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\road\road texture.png
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\road\road texture.png
+
+newmtl Material__106
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\poster_kolomensky_com.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\poster_kolomensky_com.jpg
+
+newmtl Billboards_002
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\billboard19.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\billboard19.jpg
+
+newmtl 1
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 2018_bm4_gt4_sports_car_side_view_pk
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material_017
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\HighRiseResidential0062_2_L.jpg
+	map_Kd C:\Users\CG_LAB\Desktop\motion blur\DynamicShaderLinkageFX11 obj mtl reader(2)\Objects\city\textures\textures\textures\HighRiseResidential0062_2_L.jpg
