@@ -16,6 +16,10 @@
 </p>
 
 <br>
+코드 : [Github](https://github.com/limbsoo/3match_genetic-algorithm_unity)
+
+
+구현 과정 : [Blog](https://limbsoo.github.io/tags/match-3game/)
 <br>
 
 ## 2) 모션 벡터 공유를 통한 모션 블러 효과 구현 (2022.02 - 2022.03)
