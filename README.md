@@ -21,7 +21,7 @@
 코드 : [Github](https://github.com/limbsoo/DirectX11/tree/master/accumulation_motionblur)
 
 
-구현 과정 : [Blog](https://limbsoo.github.io/posts/DX11-Motion-Blur-using-Accumulation-method/)
+상세 구현 과정 : [Blog](https://limbsoo.github.io/posts/DX11-Motion-Blur-using-Accumulation-method/)
 <br>
 
 ## 2) 모션 벡터 공유를 통한 모션 블러 효과 구현 (2022.02 - 2022.03)
@@ -62,7 +62,7 @@
 코드 : [Github](https://github.com/limbsoo/DirectX11/tree/master/sharing_motionvector_motionblur)
 
 
-구현 과정 : [Blog](https://limbsoo.github.io/posts/DX11-Motion-Blur-using-motion-vector-sharing/)
+상세 구현 과정 : [Blog](https://limbsoo.github.io/posts/DX11-Motion-Blur-using-motion-vector-sharing/)
 <br>
 ## 3) 다층 모션 벡터 활용 모션 블러 효과 구현 (2022.04 - 2022.08)
 
@@ -109,7 +109,7 @@ else
 코드 : [Github](https://github.com/limbsoo/DirectX11/tree/master/depthpeeling_motionblur)
 
 
-구현 과정 : [Blog](https://limbsoo.github.io/posts/DX11-Motion-Blur-using-depth-peeling-layer/)
+상세 구현 과정 : [Blog](https://limbsoo.github.io/posts/DX11-Motion-Blur-using-depth-peeling-layer/)
 <br>
 
 ## 4) Stencil routing을 통한 다층 모션 벡터 활용 모션 블러 효과 구현 (2022.08 - 2023.01)
@@ -154,7 +154,7 @@ Depth Peeling by Stencil Routed Rendering
 코드 : [Github](https://github.com/limbsoo/DirectX11/tree/master/depthpeeling_motionblur)
 
 
-구현 과정 : [Blog](https://limbsoo.github.io/posts/DX11-Motion-Blur-stencil-routing/)
+상세 구현 과정 : [Blog](https://limbsoo.github.io/posts/DX11-Motion-Blur-stencil-routing/)
 <br>
 <br>
 
@@ -180,7 +180,7 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
 
 
 
-구현 과정 : [Blog](https://limbsoo.github.io/tags/tutorial/)
+상세 구현 과정 : [Blog](https://limbsoo.github.io/tags/tutorial/)
 <br>
 <br>
 
