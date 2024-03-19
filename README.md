@@ -18,10 +18,10 @@
 <br>
 
 
-코드 : [Github](https://github.com/limbsoo/3match_genetic-algorithm_unity)
+코드 : [Github]()
 
 
-구현 과정 : [Blog](https://limbsoo.github.io/tags/match-3game/)
+구현 과정 : [Blog]()
 <br>
 
 ## 2) 모션 벡터 공유를 통한 모션 블러 효과 구현 (2022.02 - 2022.03)
@@ -55,9 +55,15 @@
 - 탐색 구역 안의 랜덤 픽셀을 지정, 해당 픽셀의 모션 벡터를 역추적하여 현재 픽셀을 지나는 모션 벡터를 가진 픽셀을 탐색하여 탐색 횟수 감소
 - 랜덤 픽셀 샘플 과정에서 발생하는 아티팩트를 제거하기 위한 디노이징 과정 추가
 
-<br>
+
 <br>
 
+
+코드 : [Github]()
+
+
+구현 과정 : [Blog]()
+<br>
 ## 3) 다층 모션 벡터 활용 모션 블러 효과 구현 (2022.04 - 2022.08)
 
 
@@ -98,9 +104,13 @@ else
 
 
 <br>
+
+
+코드 : [Github]()
+
+
+구현 과정 : [Blog]()
 <br>
-
-
 
 ## 4) Stencil routing을 통한 다층 모션 벡터 활용 모션 블러 효과 구현 (2022.08 - 2023.01)
 
@@ -139,11 +149,14 @@ Depth Peeling by Stencil Routed Rendering
 
 
 <br>
+
+
+코드 : [Github]()
+
+
+구현 과정 : [Blog]()
 <br>
-
 <br>
-
-
 
 # DirectX 11 환경 렌더링 (2021.10 - 2021.12)
 
@@ -163,6 +176,15 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
 
 
 
+<br>
+
+
+코드 : [Github]()
+
+
+구현 과정 : [Blog]()
+<br>
+<br>
 
 
 
